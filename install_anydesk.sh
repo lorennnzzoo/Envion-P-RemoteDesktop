@@ -16,11 +16,3 @@ sudo apt update
 # Install Anydesk
 echo "Installing Anydesk..."
 sudo apt install anydesk -y
-
-# Display Anydesk version
-echo "Anydesk installed successfully. Checking version..."
-anydesk --version
-
-# Launch Anydesk
-echo "Launching Anydesk..."
-anydesk
